@@ -1,0 +1,41 @@
+[
+    { 
+        "id"        : 1,
+        "name"      : "Milkfood",
+        "content"   : "Milkfood Rich Desi Danedar Ghee (Carton)",
+        "mrp"       : 498,
+        "rs"        : 408,
+        "imageUrl"  : "milkfood-rich-desi-ghee.jpg"
+
+    },
+    {
+        "id"        : 2,
+        "name"      : "Grofers Mother's choice",
+        "content"   : "Grofers Mother's choice Desi Ghee",
+        "mrp"       : 450,
+        "rs"        : 414,
+        "imageUrl"  : "grofers-mother-s-cho.jpg"
+
+
+    },
+    {
+        "id"        : 3,
+        "name"      : "Amul",
+        "content"   : "Amul Pure Ghee (Carton)",
+        "mrp"       : 460,
+        "rs"        : 439,
+        "imageUrl"  : "amul-ghee.jpg"
+
+
+    },
+    {
+        "id"        : 4,
+        "name"      : "Patanjali",
+        "content"   : "Patanjali Chyawanprash",
+        "mrp"       : 280,
+        "rs"        : 246,
+        "imageUrl"  : "pathanjalichayawanprash.jpg"
+
+
+    }
+]
